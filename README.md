@@ -20,7 +20,7 @@
 
 ---
 
-![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQGTMMa6PXX-bQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1729597811373?e=1732752000&v=beta&t=HFFwgIEBb4KwcH0QSgKja0Lz-3yJDSO086m2P6OIZwQ "LinkedIn Learning Certificate of Completion")
+![Certificate](https://media.licdn.com/dms/image/v2/D4D22AQGTMMa6PXX-bQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1729597811373?e=1737590400&v=beta&t=xC46sZLokwdkfozLErAbNkVjwlvu2h-mgdfeZ0ftwrU "LinkedIn Learning Certificate of Completion")
 
 [Course Link](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3)
 
